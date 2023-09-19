@@ -1,0 +1,32 @@
+#number:hover{
+    background-color: #fcd5ce;
+   }
+   
+
+#number{
+    display: flex;
+    justify-content: center;
+    background-color: #ffb5a7;
+    border: #f08080;
+    border-radius: 0.5px solid;
+    cursor: pointer;
+}
+
+body{
+    background-color: #d8e2dc;
+}
+
+h2{
+    font-family: 'Copperplate Gothic';font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color: #adf7b6; 
+}
+
+input[type="text"] {
+    font-family: 'Courier New';font-size: 25px;
+    display: flex;
+    justify-content: center;
+    color: #e2afff;
+}
+
